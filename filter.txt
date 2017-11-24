@@ -1,0 +1,19 @@
+[Adblock Plus 1.1]
+! Checksum: ffadblock
+! Title: ffadblock
+! Last Modified: 01 Jul 2018 13:06 +00:00
+! Expires: 250 days (update frequency)
+! Homepage: https://github.com/finprog/ffadblock
+! Licence: yes
+! Title: ffadblock
+!
+
+###cookieConf
+allgemeine-zeitung.de###footer
+allgemeine-zeitung.de###toast
+allgemeine-zeitung.de###service
+allgemeine-zeitung.de###te4
+allgemeine-zeitung.de###te5 
+allgemeine-zeitung.de##.odd.box:nth-of-type(1)
+allgemeine-zeitung.de##.odd.box:nth-of-type(2)
+allgemeine-zeitung.de##.odd.box:nth-of-type(3)

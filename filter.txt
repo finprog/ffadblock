@@ -21,6 +21,15 @@ allgemeine-zeitung.de###te5
 allgemeine-zeitung.de##.odd.box:nth-of-type(1)
 allgemeine-zeitung.de##.odd.box:nth-of-type(2)
 allgemeine-zeitung.de##.odd.box:nth-of-type(3)
+allgemeine-zeitung.de##.odd.box:nth-of-type(4)
+allgemeine-zeitung.de##.odd.box:nth-of-type(5)
+allgemeine-zeitung.de##.odd.box:nth-of-type(6)
+allgemeine-zeitung.de##.odd.box:nth-of-type(7)
+allgemeine-zeitung.de##.even.box
+allgemeine-zeitung.de##.even.finder.box
+allgemeine-zeitung.de##.odd.even.box
 allgemeine-zeitung.de##.even.weather.box
 allgemeine-zeitung.de##.odd.box
 allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
+
+encrypted.google.com###fbar

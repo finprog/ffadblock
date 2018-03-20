@@ -32,6 +32,7 @@ allgemeine-zeitung.de##.odd.even.box
 allgemeine-zeitung.de##.even.weather.box
 allgemeine-zeitung.de##.odd.box
 allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
+merkur.de##.id-CookieConsent
 encrypted.google.com###fbar
 encrypted.google.com##.gb_g.gb_fa
 golem.de###golem-cookie-accept

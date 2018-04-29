@@ -8,6 +8,7 @@
 ! Title: ffadblock
 !
 ##.cookinfo_bottom
+##.cookiePolicyNotice.info
 ###cookieChooserWrapper
 ###cookieConf
 allgemeine-zeitung.de###footer
@@ -34,7 +35,17 @@ allgemeine-zeitung.de##.odd.box
 allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
 allgemeine-zeitung.de##.lightbox-skin
 wiesbadener-kurier.de##.lightbox-skin
+wiesbadener-kurier.de||allgemeine-zeitung.de##.slick-slider.slick-initialized.slideable
+wiesbadener-kurier.de||allgemeine-zeitung.de##.even.weather.box
+wiesbadener-kurier.de||allgemeine-zeitung.de##.even.box:nth-of-type(3)
+wiesbadener-kurier.de||allgemeine-zeitung.de###TRM_teaser_widget_list
+wiesbadener-kurier.de||allgemeine-zeitung.de##.odd.weather.box
+wiesbadener-kurier.de||allgemeine-zeitung.de##.odd.box
+wiesbadener-kurier.de||allgemeine-zeitung.de##.lightbox-skin
+allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
+wiesbadener-kurier.de/pics/edition/wk/logo_header.png$image
 merkur.de##.id-CookieConsent
 encrypted.google.com###fbar
 encrypted.google.com##.gb_g.gb_fa
 golem.de###golem-cookie-accept
+

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Checksum: ffadblock
 ! Title: ffadblock
-! Last Modified: 02 Jul 2018 14:07 +00:00
+! Last Modified: 02 Jul 2018 14:08 +00:00
 ! Expires: 50 days (update frequency)
 ! Homepage: https://github.com/finprog/ffadblock
 ! Licence: yes
@@ -9,79 +9,79 @@
 !
 ! || blockiert https://www.focus.de und http://www.focus.de und http://m.focus.de
 ! 29.5.2018, 17:34:48 https://www.focus.de/
-||focus.de##.as-oil-content-overlay
+focus.de##.as-oil-content-overlay
 
 ##.cookinfo_bottom
 ##.cookiePolicyNotice.info
 ###cookieChooserWrapper
 ###cookieConf
 
-||allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
-||wiesbadener-kurier.de/pics/edition/wk/logo_header.png$image
+allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
+wiesbadener-kurier.de/pics/edition/wk/logo_header.png$image
 
 ||merkur.de##.id-CookieConsent
 ||encrypted.google.com###fbar
 ||encrypted.google.com##.gb_g.gb_fa
 ||golem.de###golem-cookie-accept
 
-||allgemeine-zeitung.de###TRM_teaser_widget_list
-||allgemeine-zeitung.de###footer
-||allgemeine-zeitung.de###service
-||allgemeine-zeitung.de###te1
-||allgemeine-zeitung.de###te2
-||allgemeine-zeitung.de###te3
-||allgemeine-zeitung.de###te4
-||allgemeine-zeitung.de###te5 
-||allgemeine-zeitung.de###te6 
-||allgemeine-zeitung.de###toast
-||allgemeine-zeitung.de##.enabled.cookie-notification
-||allgemeine-zeitung.de##.even.box
-||allgemeine-zeitung.de##.even.box:nth-of-type(2)
-||allgemeine-zeitung.de##.even.box:nth-of-type(3)
-||allgemeine-zeitung.de##.even.finder.box
-||allgemeine-zeitung.de##.even.weather.box
-||allgemeine-zeitung.de##.lightbox-overlay
-||allgemeine-zeitung.de##.lightbox-skin
-||allgemeine-zeitung.de##.odd.box
-||allgemeine-zeitung.de##.odd.box:nth-of-type(1)
-||allgemeine-zeitung.de##.odd.box:nth-of-type(2)
-||allgemeine-zeitung.de##.odd.box:nth-of-type(3)
-||allgemeine-zeitung.de##.odd.box:nth-of-type(4)
-||allgemeine-zeitung.de##.odd.box:nth-of-type(5)
-||allgemeine-zeitung.de##.odd.box:nth-of-type(6)
-||allgemeine-zeitung.de##.odd.box:nth-of-type(7)
-||allgemeine-zeitung.de##.odd.box:nth-of-type(8)
-||allgemeine-zeitung.de##.odd.even.box
-||allgemeine-zeitung.de##.odd.weather.box
-||allgemeine-zeitung.de##.slick-slider.slick-initialized.slideable
+allgemeine-zeitung.de###TRM_teaser_widget_list
+allgemeine-zeitung.de###footer
+allgemeine-zeitung.de###service
+allgemeine-zeitung.de###te1
+allgemeine-zeitung.de###te2
+allgemeine-zeitung.de###te3
+allgemeine-zeitung.de###te4
+allgemeine-zeitung.de###te5 
+allgemeine-zeitung.de###te6 
+allgemeine-zeitung.de###toast
+allgemeine-zeitung.de##.enabled.cookie-notification
+allgemeine-zeitung.de##.even.box
+allgemeine-zeitung.de##.even.box:nth-of-type(2)
+allgemeine-zeitung.de##.even.box:nth-of-type(3)
+allgemeine-zeitung.de##.even.finder.box
+allgemeine-zeitung.de##.even.weather.box
+allgemeine-zeitung.de##.lightbox-overlay
+allgemeine-zeitung.de##.lightbox-skin
+allgemeine-zeitung.de##.odd.box
+allgemeine-zeitung.de##.odd.box:nth-of-type(1)
+allgemeine-zeitung.de##.odd.box:nth-of-type(2)
+allgemeine-zeitung.de##.odd.box:nth-of-type(3)
+allgemeine-zeitung.de##.odd.box:nth-of-type(4)
+allgemeine-zeitung.de##.odd.box:nth-of-type(5)
+allgemeine-zeitung.de##.odd.box:nth-of-type(6)
+allgemeine-zeitung.de##.odd.box:nth-of-type(7)
+allgemeine-zeitung.de##.odd.box:nth-of-type(8)
+allgemeine-zeitung.de##.odd.even.box
+allgemeine-zeitung.de##.odd.weather.box
+allgemeine-zeitung.de##.slick-slider.slick-initialized.slideable
 
-||wiesbadener-kurier.de###TRM_teaser_widget_list
-||wiesbadener-kurier.de###footer
-||wiesbadener-kurier.de###service
-||wiesbadener-kurier.de###te1
-||wiesbadener-kurier.de###te2
-||wiesbadener-kurier.de###te3
-||wiesbadener-kurier.de###te4
-||wiesbadener-kurier.de###te5 
-||wiesbadener-kurier.de###te6 
-||wiesbadener-kurier.de###toast
-||wiesbadener-kurier.de##.enabled.cookie-notification
-||wiesbadener-kurier.de##.even.box
-||wiesbadener-kurier.de##.even.box:nth-of-type(2)
-||wiesbadener-kurier.de##.even.box:nth-of-type(3)
-||wiesbadener-kurier.de##.even.finder.box
-||wiesbadener-kurier.de##.even.weather.box
-||wiesbadener-kurier.de##.lightbox-overlay
-||wiesbadener-kurier.de##.lightbox-skin
-||wiesbadener-kurier.de##.odd.box
-||wiesbadener-kurier.de##.odd.box:nth-of-type(1)
-||wiesbadener-kurier.de##.odd.box:nth-of-type(2)
-||wiesbadener-kurier.de##.odd.box:nth-of-type(3)
-||wiesbadener-kurier.de##.odd.box:nth-of-type(4)
-||wiesbadener-kurier.de##.odd.box:nth-of-type(5)
-||wiesbadener-kurier.de##.odd.box:nth-of-type(6)
-||wiesbadener-kurier.de##.odd.box:nth-of-type(7)
-||wiesbadener-kurier.de##.odd.box:nth-of-type(8)
-||wiesbadener-kurier.de##.odd.even.box
-||wiesbadener-kurier.de##.odd.weather.box
-||wiesbadener-kurier.de##.slick-slider.slick-initialized.slideable
+wiesbadener-kurier.de###TRM_teaser_widget_list
+wiesbadener-kurier.de###footer
+wiesbadener-kurier.de###service
+wiesbadener-kurier.de###te1
+wiesbadener-kurier.de###te2
+wiesbadener-kurier.de###te3
+wiesbadener-kurier.de###te4
+wiesbadener-kurier.de###te5 
+wiesbadener-kurier.de###te6 
+wiesbadener-kurier.de###toast
+wiesbadener-kurier.de##.enabled.cookie-notification
+wiesbadener-kurier.de##.even.box
+wiesbadener-kurier.de##.even.box:nth-of-type(2)
+wiesbadener-kurier.de##.even.box:nth-of-type(3)
+wiesbadener-kurier.de##.even.finder.box
+wiesbadener-kurier.de##.even.weather.box
+wiesbadener-kurier.de##.lightbox-overlay
+wiesbadener-kurier.de##.lightbox-skin
+wiesbadener-kurier.de##.odd.box
+wiesbadener-kurier.de##.odd.box:nth-of-type(1)
+wiesbadener-kurier.de##.odd.box:nth-of-type(2)
+wiesbadener-kurier.de##.odd.box:nth-of-type(3)
+wiesbadener-kurier.de##.odd.box:nth-of-type(4)
+wiesbadener-kurier.de##.odd.box:nth-of-type(5)
+wiesbadener-kurier.de##.odd.box:nth-of-type(6)
+wiesbadener-kurier.de##.odd.box:nth-of-type(7)
+wiesbadener-kurier.de##.odd.box:nth-of-type(8)
+wiesbadener-kurier.de##.odd.even.box
+wiesbadener-kurier.de##.odd.weather.box
+wiesbadener-kurier.de##.slick-slider.slick-initialized.slideable

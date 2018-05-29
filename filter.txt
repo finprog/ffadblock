@@ -34,6 +34,7 @@ allgemeine-zeitung.de##.even.weather.box
 allgemeine-zeitung.de##.odd.box
 allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
 allgemeine-zeitung.de##.lightbox-skin
+allgemeine-zeitung.de##.lightbox-overlay
 wiesbadener-kurier.de##.lightbox-skin
 wiesbadener-kurier.de||allgemeine-zeitung.de##.slick-slider.slick-initialized.slideable
 wiesbadener-kurier.de||allgemeine-zeitung.de##.even.weather.box

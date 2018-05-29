@@ -7,7 +7,9 @@
 ! Licence: yes
 ! Title: ffadblock
 !
-##.as-oil-content-overlay
+! 29.5.2018, 17:34:48 https://www.focus.de/
+||focus.de##.as-oil-content-overlay
+
 ##.cookinfo_bottom
 ##.cookiePolicyNotice.info
 ###cookieChooserWrapper

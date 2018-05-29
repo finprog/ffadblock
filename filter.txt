@@ -7,10 +7,12 @@
 ! Licence: yes
 ! Title: ffadblock
 !
+##.as-oil-content-overlay
 ##.cookinfo_bottom
 ##.cookiePolicyNotice.info
 ###cookieChooserWrapper
 ###cookieConf
+allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
 allgemeine-zeitung.de###footer
 allgemeine-zeitung.de###toast
 allgemeine-zeitung.de###service
@@ -27,20 +29,17 @@ allgemeine-zeitung.de##.odd.box:nth-of-type(5)
 allgemeine-zeitung.de##.odd.box:nth-of-type(6)
 allgemeine-zeitung.de##.odd.box:nth-of-type(7)
 allgemeine-zeitung.de##.enabled.cookie-notification
-allgemeine-zeitung.de##.even.box
 allgemeine-zeitung.de##.even.finder.box
 allgemeine-zeitung.de##.odd.even.box
 allgemeine-zeitung.de##.even.weather.box
-allgemeine-zeitung.de##.odd.box
-allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
-allgemeine-zeitung.de##.lightbox-skin
-allgemeine-zeitung.de##.lightbox-overlay
-wiesbadener-kurier.de##.lightbox-skin
+wiesbadener-kurier.de||allgemeine-zeitung.de##.lightbox-skin
+wiesbadener-kurier.de||allgemeine-zeitung.de##.lightbox-overlay
 wiesbadener-kurier.de||allgemeine-zeitung.de##.slick-slider.slick-initialized.slideable
 wiesbadener-kurier.de||allgemeine-zeitung.de##.even.weather.box
 wiesbadener-kurier.de||allgemeine-zeitung.de##.even.box:nth-of-type(3)
 wiesbadener-kurier.de||allgemeine-zeitung.de###TRM_teaser_widget_list
 wiesbadener-kurier.de||allgemeine-zeitung.de##.odd.weather.box
+wiesbadener-kurier.de||allgemeine-zeitung.de##.even.box
 wiesbadener-kurier.de||allgemeine-zeitung.de##.odd.box
 wiesbadener-kurier.de||allgemeine-zeitung.de##.lightbox-skin
 allgemeine-zeitung.de/pics/edition/az/logo_header.png$image

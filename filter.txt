@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Checksum: ffadblock
 ! Title: ffadblock
-! Last Modified: 02 Jul 2018 14:08 +00:00
+! Last Modified: 02 Jul 2018 14:09 +00:00
 ! Expires: 50 days (update frequency)
 ! Homepage: https://github.com/finprog/ffadblock
 ! Licence: yes
@@ -27,6 +27,7 @@ wiesbadener-kurier.de/pics/edition/wk/logo_header.png$image
 allgemeine-zeitung.de###TRM_teaser_widget_list
 allgemeine-zeitung.de###footer
 allgemeine-zeitung.de###service
+allgemeine-zeitung.de###smartbanner
 allgemeine-zeitung.de###te1
 allgemeine-zeitung.de###te2
 allgemeine-zeitung.de###te3
@@ -58,6 +59,7 @@ allgemeine-zeitung.de##.slick-slider.slick-initialized.slideable
 wiesbadener-kurier.de###TRM_teaser_widget_list
 wiesbadener-kurier.de###footer
 wiesbadener-kurier.de###service
+||wiesbadener-kurier.de###smartbanner
 wiesbadener-kurier.de###te1
 wiesbadener-kurier.de###te2
 wiesbadener-kurier.de###te3

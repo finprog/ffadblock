@@ -15,6 +15,7 @@ focus.de##.as-oil-content-overlay
 ##.cookiePolicyNotice.info
 ###cookieChooserWrapper
 ###cookieConf
+###cookieNoticeModal
 
 allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
 wiesbadener-kurier.de/pics/edition/wk/logo_header.png$image
@@ -87,3 +88,7 @@ wiesbadener-kurier.de##.odd.box:nth-of-type(8)
 wiesbadener-kurier.de##.odd.even.box
 wiesbadener-kurier.de##.odd.weather.box
 wiesbadener-kurier.de##.slick-slider.slick-initialized.slideable
+
+||youtube.com##.clearfix.yt-consent-banner.yt-consent
+www.booking.com##.b_leaving_users_light_box.modal-wrapper
+

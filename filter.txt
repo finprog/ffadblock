@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Checksum: ffadblock
 ! Title: ffadblock
-! Last Modified: 17 Aug 2018 14:09 +00:00
+! Last Modified: 30 Aug 2018 14:09 +00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/finprog/ffadblock
 ! Licence: yes
@@ -15,10 +15,19 @@ focus.de##.as-oil-content-overlay
 ##.cookiePolicyNotice.info
 ###cookieChooserWrapper
 ###cookieConf
-###cookieNoticeModal
+! ###cookieNoticeModal
 
 allgemeine-zeitung.de/pics/edition/az/logo_header.png$image
 wiesbadener-kurier.de/pics/edition/wk/logo_header.png$image
+allgemeine-zeitung.de/images/editions/az/logo.svg$image
+allgemeine-zeitung.de/images/editions/az/logo.svg
+allgemeine-zeitung.de/images/editions/wk/logo.svg
+allgemeine-zeitung.de/images/editions/wk/logo.svg$image
+allgemeine-zeitung.de###section20
+wiesbadener-kurier.de###section20
+allgemeine-zeitung.de##.vrm-footer__navContainer.row
+wiesbadener-kurier.de##.vrm-footer__navContainer.row
+
 
 ||merkur.de##.id-CookieConsent
 ||encrypted.google.com###fbar

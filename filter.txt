@@ -104,4 +104,4 @@ wiesbadener-kurier.de##.slick-slider.slick-initialized.slideable
 
 ||youtube.com##.clearfix.yt-consent-banner.yt-consent
 www.booking.com##.b_leaving_users_light_box.modal-wrapper
-
+heise.de##script:contains(kameleoon)
